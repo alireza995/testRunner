@@ -1,0 +1,14 @@
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\bin\Debug\net7.0\testRunner.exe
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\bin\Debug\net7.0\testRunner.deps.json
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\bin\Debug\net7.0\testRunner.runtimeconfig.json
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\bin\Debug\net7.0\testRunner.dll
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\bin\Debug\net7.0\testRunner.pdb
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.AssemblyInfoInputs.cache
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.AssemblyInfo.cs
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.csproj.CoreCompileInputs.cache
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.dll
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\refint\testRunner.dll
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.pdb
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\testRunner.genruntimeconfig.cache
+C:\Users\Radshid\RiderProjects\testRunner\testRunner\obj\Debug\net7.0\ref\testRunner.dll
